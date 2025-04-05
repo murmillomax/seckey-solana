@@ -1,0 +1,15 @@
+{ 
+    "name": "GallopCoin", 
+    "symbol": "GALL", 
+    "description": "Your tokens are running out, hurry up and grab yours!", 
+    "image": "https://azure-lazy-crab-567.mypinata.cloud/ipfs/bafkreialfy2g5bdv4ul5e2r2s6zm7vrnkpk777b4ezy2y5ttarbapbnpea", 
+    "attributes": [],
+    "properties": { 
+        "files": [ 
+            { 
+                "uri": "https://azure-lazy-crab-567.mypinata.cloud/ipfs/bafkreialfy2g5bdv4ul5e2r2s6zm7vrnkpk777b4ezy2y5ttarbapbnpea", 
+                "type": "image/png" 
+            } 
+        ] 
+    }
+}
