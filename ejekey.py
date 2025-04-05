@@ -4,7 +4,7 @@ from nacl.signing import SigningKey
 import sys
 
 if len(sys.argv) < 2:
-    print("Uso: python seckey.py <ruta_del_archivo.json>")
+    print("Uso: python ejekey.py <ruta_del_archivo.json>")
     sys.exit(1)
 
 json_file_path = sys.argv[1]
