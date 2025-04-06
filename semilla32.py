@@ -6,7 +6,7 @@ from solders.pubkey import Pubkey
 import sys
 
 # Reemplaza con tu frase semilla de 12 palabras
-mnemonic_phrase = "summer dash front torch mom grant topple client rescue beauty pepper normal"
+mnemonic_phrase = "humble ramp fragile script victory utility salmon concert chalk observe shell flock"
 
 # Inicializa el generador de mnemónicos para inglés
 mnemonic_generator = Mnemonic('english')
